@@ -1,0 +1,16 @@
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.exe
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.deps.json
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.runtimeconfig.json
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.runtimeconfig.dev.json
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.dll
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\ref\MusicCatalog.dll
+C:\Users\vinic\Desktop\MusicCatalog\bin\Debug\net5.0\MusicCatalog.pdb
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.AssemblyInfo.cs
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.dll
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\ref\MusicCatalog.dll
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.pdb
+C:\Users\vinic\Desktop\MusicCatalog\obj\Debug\net5.0\MusicCatalog.genruntimeconfig.cache
