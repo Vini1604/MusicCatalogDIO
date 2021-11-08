@@ -39,6 +39,7 @@ namespace MusicCatalog
                         break;
                     case "C":
                         Console.Clear();
+                        Console.ReadLine();
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
